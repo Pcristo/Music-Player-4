@@ -34,7 +34,7 @@ let All_song = [
 	   name: "Da Weasel",
 	   path: "music/da_weasel/1_da_weasel_uma_pagina_historia.mp3",
 	   img: "img/da_wasel_1.jpg",
-	   trackName: "Força - Uma Página de História"
+	   trackName: "Força"
    },
    {
      name: "Da Weasel",
