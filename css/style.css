@@ -252,9 +252,9 @@ input[type="range"]::-webkit-slider-thumb{
 
 	   .img-vinyl img{
 		width: 30%;
-		right: 80px;
+		right: 34%;
 		position: absolute;
-		top:280px;
+		top:298px;
 	}
    
    
@@ -286,8 +286,8 @@ input[type="range"]::-webkit-slider-thumb{
 
 	.right #artist{
 		position: absolute;
-		top: 155px;
-		left: 47%;
+		top: 91px;
+		left: 50%;
 		margin-bottom: 25px!important;
 	
 	}
