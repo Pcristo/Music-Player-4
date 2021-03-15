@@ -34,37 +34,37 @@ let All_song = [
 	   name: "Da Weasel",
 	   path: "music/da_weasel/1_da_weasel_uma_pagina_historia.mp3",
 	   img: "img/da_wasel_1.jpg",
-	   trackName: "Força"
+	   trackName: '"Força"'
    },
    {
      name: "Da Weasel",
      path: "music/da_weasel/2_da_weasel_joaninha.mp3",
      img: "img/da_wasel_2.jpg",
-     trackName: "Joaninha"
+     trackName: '"Joaninha"'
    },
    {
      name: "Dire Straits",
      path: "music/dire_straits/1_dire _straits_ sultans_of_wing.mp3",
      img: "img/dire_straits_3.jpg",
-     trackName:"Sultans Of Swing"
+     trackName:'"Sultans Of Swing"'
    },
    {
      name: "Dire Straits",
      path: "music/dire_straits/2_dire_straits_calling_elvis.mp3",
      img: "img/dire_straits_1.jpg",
-     trackName: "Calling Elvis"
+     trackName: '"Calling Elvis"'
    },
    {
      name: "Survivor",
      path: "music/survivor/2_burning_heart.flac",
      img: "img/survivor_1.jpg",
-     trackName: "Burning Heart"
+     trackName: '"Burning Heart"'
    },
    {
    name: "Survivor",
    path: "music/survivor/1_eye_of_the_tiger.flac",
    img: "img/survivor_1.jpg",
-   trackName: "Eye of The Tiger"
+   trackName: '"Eye of The Tiger"'
  }
 
    
