@@ -279,7 +279,6 @@ input[type="range"]::-webkit-slider-thumb{
 
 	   .right input[type=range] {
 		width: 50%;
-		margin-left:-600px;
 		top: 25px;
 		margin-bottom: 55px;
 	}
